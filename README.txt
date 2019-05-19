@@ -6,4 +6,4 @@ The data are discrete, hipotesis wich is use is sigmoid function.
 
 Programs use gradiendt descent method by minimize function to find best theta parametrs.
 
-In second program there is added the regularyzation parametr to predict the overfitting. 
+In second program there is added the regularyzation parametr to prevent the overfitting. 
